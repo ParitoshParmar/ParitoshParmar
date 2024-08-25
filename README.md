@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision, especially, Video Understanding
 - ✨ My latest projects:
 
-  - [Hierarchical NeuroSymbolic Approach for Comprehensive and Explainable Action Quality Assessment [🏆 CVPR 2024 CVSports Best Paper Award (Oral Presentation; 3/3 Strong Accepts); Selected for CVPR 2024 Demos]](https://github.com/laurenok24/NSAQA): Not just a single score prediction, but _Detailed, Unbiased Action Quality Assessment Report Generation_, complete with _Visual Evidence_!
+  - NeuroSymbolic Approach for Action Quality Assessment [🏆 CVPR 2024 CVSports Best Paper Award] [[Code](https://github.com/laurenok24/NSAQA)] [[Demo](https://huggingface.co/spaces/X-NS/NSAQA)]
   - [Fine-grained Exercise Action Quality Assessment](https://github.com/ParitoshParmar/Fitness-AQA): _Novel Domain Knowledge-Informed Self-Supervised Pose-Motion Contrastive Approaches for Fine-grained Action Quality Assessment_ (can be used for _Diving_ as well!) + _Fitness-AQA_ dataset
   - [Multimodal Piano Skills Assessment](https://github.com/ParitoshParmar/Piano-Skills-Assessment): _Audio CNN_ + _Video CNN_ + _Multimodal CNN_ Approaches for Piano Skills Assessment + _Multimodal Dataset for Piano Skills Assessment_
   - [Novel Test Benchmark for Truer Video Understanding](https://github.com/ParitoshParmar/Win-Fail-Action-Recognition): Novel Challenging Video Understanding Dataset -- _Win-Fail Action Understanding_ dataset + _In-Depth Analysis_ of various _Video Understanding baseline models_
