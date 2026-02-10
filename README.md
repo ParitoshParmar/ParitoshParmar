@@ -1,6 +1,7 @@
 - 👋 Hi, I’m [ParitoshParmar](https://paritoshparmar.github.io/)
 - 👀 I’m interested in Computer Vision, especially, Video Understanding
 - ✨ My latest projects:
+  - 📢 📢 📢 We will be organizing Second Edition of the **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **CVPR 2026!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you in Denver, Colorado!
   - 📢 📢 📢 We will be organizing **Workshop** on [*Skilled Activity Understanding, Assessment and Feedback Generation* (SAUAFG)](https://sauafg-workshop.github.io/) at **ICCV 2025!** More info on [SAUAFG Website](https://sauafg-workshop.github.io/). **Consider submitting your papers!** See you in Honolulu, Hawaii!
   - [FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment](https://arxiv.org/abs/2506.03198) [[Project Page](https://haoyin116.github.io/FLEX_Dataset/)] [[Code](https://github.com/HaoYin116/FLEX)]
   - [CausalChaos! Dataset for Causal Video Question Answering](https://arxiv.org/abs/2404.01299) [NeurIPS 2024] [[Dataset, Code](https://github.com/LUNAProject22/CausalChaos)]
